@@ -1,1 +1,1 @@
-## Live Link: https://portfolioayushprashar.netlify.app/
+## Live Hosted Link: https://portfolioayushprashar.netlify.app/
